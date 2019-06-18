@@ -21,7 +21,5 @@ int main(){
   }
   printf("%d", ub);
   return ub;
-
-
   return 0;
 }
